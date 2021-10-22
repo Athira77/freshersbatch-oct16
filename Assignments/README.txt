@@ -1,4 +1,4 @@
-This is a collection of files
+This is a collection of many  files
 html css and js files
-committed successfully
+committed successfully both readme
 Html and readme committed now
