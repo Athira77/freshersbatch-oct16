@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-This is a collection files
+
 html css and js files
 committed successfully both readme
 Html and readme committed now
