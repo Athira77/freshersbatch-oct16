@@ -1,4 +1,4 @@
 This is a collection of files
 Contains html css and js files
 committed successfully
-Html committed now
+Html and readme committed now
